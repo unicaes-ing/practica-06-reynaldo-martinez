@@ -1,0 +1,6 @@
+c:\proyectos\Practica09Reynadlo\Practica09Reynadlo\bin\Debug\Practica09Reynadlo.exe.config
+c:\proyectos\Practica09Reynadlo\Practica09Reynadlo\bin\Debug\Practica09Reynadlo.exe
+c:\proyectos\Practica09Reynadlo\Practica09Reynadlo\bin\Debug\Practica09Reynadlo.pdb
+c:\proyectos\Practica09Reynadlo\Practica09Reynadlo\obj\Debug\Practica09Reynadlo.csprojResolveAssemblyReference.cache
+c:\proyectos\Practica09Reynadlo\Practica09Reynadlo\obj\Debug\Practica09Reynadlo.exe
+c:\proyectos\Practica09Reynadlo\Practica09Reynadlo\obj\Debug\Practica09Reynadlo.pdb
